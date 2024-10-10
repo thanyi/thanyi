@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanyi)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=thanyi&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
