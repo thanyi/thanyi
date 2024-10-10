@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username={YOUR_USERNAME}&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=thanyi&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
